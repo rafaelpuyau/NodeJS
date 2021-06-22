@@ -1,0 +1,27 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Testes e Mini projetos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelpuyau/NodeJS.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express"
+  ],
+  "author": "Rafael Puyau",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rafaelpuyau/NodeJS/issues"
+  },
+  "homepage": "https://github.com/rafaelpuyau/NodeJS#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
